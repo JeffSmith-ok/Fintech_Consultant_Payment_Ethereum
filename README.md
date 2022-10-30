@@ -41,7 +41,7 @@ streamlit run fintech_finder.py
 
 ## Usage
 
-The following image presents the transaction app running in streamlit.
+The following image presents the code with the transaction processed in ganache and streamlit.
 
 ## ![Screenshot of the transaction running in ganache, fintech_finder.py and streamlit app running](Images/transaction.png) </br>
 
