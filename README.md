@@ -1,7 +1,6 @@
 # Module_19_Challenge
 
-CrypI will assume the perspective of a Fintech Finder
-customer in order to do the following:
+I will assume the perspective of a Fintech Finder customer in order to do the following:
 
 Generate a new Ethereum account instance by using your mnemonic seed phrase (which you created earlier in the module).
 
