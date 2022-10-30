@@ -12,11 +12,11 @@ Digitally sign a transaction that pays a Fintech Finder candidate, and send this
 
 Review the transaction hash code associated with the validated blockchain transaction.
 
-Once I receive the transaction’s hash code, you will navigate to the Transactions section of Ganache to review the blockchain transaction details. To confirm that I have successfully created the transaction, I will save screenshots to the README.md file of my GitHub repository for this Challenge assignment.
+Once I receive the transaction’s hash code, I will navigate to the Transactions section of Ganache to review the blockchain transaction details. To confirm that I have successfully created the transaction, I will save screenshots to the README.md file of my GitHub repository for this Challenge assignment.
 
 ## Technologies
 
-I created it with a dev environment running 3.7.13. Pip install the following libraries and dependencies in the installation guide.
+I created it with a dev environment running 3.7.13. Pip install the following libraries and dependencies.
 
 ---
 
@@ -41,7 +41,7 @@ streamlit run fintech_finder.py
 
 ## Usage
 
-The following images present the app run in streamlit.
+The following image presents the transaction app running in streamlit.
 
 ## ![Screenshot of the transaction running in ganache, fintech_finder.py and streamlit app running](Images/transaction.png) </br>
 
