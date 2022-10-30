@@ -84,7 +84,6 @@ w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
 # From `crypto_wallet.py import the functions generate_account, get_balance,
 #  and send_transaction
 # YOUR CODE HERE
-
 from crypto_wallet import generate_account, get_balance, send_transaction
 
 ################################################################################
@@ -138,7 +137,6 @@ st.sidebar.markdown("## Client Account Address and Ethernet Balance in Ether")
 # @TODO:
 #  Call the `generate_account` function and save it as the variable `account`
 # YOUR CODE HERE
-
 account = generate_account()
 ##########################################
 
@@ -249,7 +247,6 @@ wage = hours * hourly_rate
 # @TODO
 # Write the `wage` calculation to the Streamlit sidebar
 # YOUR CODE HERE
-
 st.sidebar.write(wage)
 ##########################################
 # Step 2 - Part 2:
@@ -271,7 +268,6 @@ st.sidebar.write(wage)
 
 
 if st.sidebar.button("Send Transaction"):
-
     # @TODO
     # Call the `send_transaction` function and pass it 3 parameters:
     # Your `account`, the `candidate_address`, and the `wage` as parameters
