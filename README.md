@@ -12,7 +12,7 @@ Digitally sign a transaction that pays a Fintech Finder candidate, and send this
 
 Review the transaction hash code associated with the validated blockchain transaction.
 
-Once I receive the transaction’s hash code, I will navigate to the Transactions section of Ganache to review the blockchain transaction details. To confirm that I have successfully created the transaction, I will save screenshots to the README.md file of my GitHub repository for this Challenge assignment.
+Once I receive the transaction’s hash code, I will navigate to the Transactions section of Ganache to review the blockchain transaction details. To confirm that I have successfully created the transaction, I will save screenshots to the README.md file in my GitHub repository for this Challenge assignment.
 
 ## Technologies
 
@@ -22,12 +22,12 @@ I created it with a dev environment running 3.7.13. Pip install the following li
 
 ## Installation Guide
 
-pip install crypto_wallet
-pip install streamlit
-pip install dataclasses
-pip installtyping
-pip install web3
-pip install w3
+pip install </br>
+pip install streamlit </br>
+pip install dataclasses</br>
+pip installtyping</br>
+pip install web3</br>
+pip install w3</br>
 
 git clone https://github.com/JeffSmith-ok/Module_19_Challenge
 
