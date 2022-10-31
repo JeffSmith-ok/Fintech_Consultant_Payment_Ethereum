@@ -45,7 +45,7 @@ The following image presents the code with the transaction processed in ganache 
 
 ## ![Screenshot of the transaction running in ganache, fintech_finder.py and streamlit app running](Images/transaction.png) </br>
 
----
+## ![Screenshot of the account running in ganache](Images/account.png)
 
 ## Contributors
 
